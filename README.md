@@ -1,4 +1,5 @@
 1689____________________________
+
 public int task(String n) {
 
 char max = '0';
