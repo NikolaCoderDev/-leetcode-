@@ -9,6 +9,6 @@ for(int i = 0; i < n.length(); i++) {
     
 }
 
-return max;
+return max - '0';
 
 }
